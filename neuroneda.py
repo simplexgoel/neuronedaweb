@@ -14,3 +14,5 @@ neuron_img = Image.open("neuron.png")
 st.write("# Neuron EDA, Inc.")
 st.write("## Under Construction :construction:")
 
+st.image(neuron_img, caption="Image of a neuron", use_column_width=False)
+
