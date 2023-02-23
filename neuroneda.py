@@ -8,7 +8,7 @@ st.set_page_config(page_title="Neuron EDA, Inc.", page_icon=":brain:")
 neuron_img = Image.open("neuron.png")
 
 # Display neuron image
-st.image(neuron_img, caption="Image of a neuron", use_column_width=True)
+#st.image(neuron_img, caption="Image of a neuron", use_column_width=True)
 
 # Display company name and under construction sign
 st.write("# Neuron EDA, Inc.")
